@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://https://github.com/Akirget/goit-js-hw-08",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /parcel-project-template/"
@@ -19,6 +19,8 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.17.1",
+    "lodash": "^4.17.21",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.10.3"
   },
