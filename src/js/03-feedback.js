@@ -29,6 +29,3 @@ function addSubmitForm(event) {
   event.target.reset();
   localStorage.clear();
 }
-
-
-
